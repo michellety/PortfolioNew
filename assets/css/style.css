@@ -251,6 +251,19 @@ input[type=submit] {
     border-bottom: 0;
 }
 
+@media screen and(max-width: 980px){
+    #masthead {
+        width: 80%;
+    }
+}
+
+@media screen and(max-width: 768px){
+    
+}
+
+@media screen and(max-width: 640px){
+    
+}
   
   
   
